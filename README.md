@@ -46,10 +46,6 @@ Docker | Git | CI/CD Basics
 
 <div align="center">
 
-![Wali's GitHub stats](https://github-readme-stats.vercel.app/api?username=waleed47&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=waleed47&layout=compact&theme=radical)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=waleed47&theme=radical)
 
 </div>
