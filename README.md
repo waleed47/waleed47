@@ -1,4 +1,4 @@
-| [![Diram Bora](https://img.shields.io/badge/DIRAM-BORA-<COLOR>.svg)](https://shields.io/) | ![Profile Views](https://komarev.com/ghpvc/?username=waleed47&color=green) | ![Followers](https://img.shields.io/github/followers/waleed47) | ![Stars](https://img.shields.io/github/stars/waleed47?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) |
+| [![Waleed Hakeem](https://img.shields.io/badge/WALEED-47-<COLOR>.svg)](https://shields.io/) | ![Profile Views](https://komarev.com/ghpvc/?username=waleed47&color=green) | ![Followers](https://img.shields.io/github/followers/waleed47) | ![Stars](https://img.shields.io/github/stars/waleed47?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) |
 --| --| --| --|
 
 
