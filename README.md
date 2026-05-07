@@ -60,16 +60,6 @@ AWS EC2 | Docker | Git | CI/CD Basics
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=waleed47&theme=react-dark)
-
-</div>
-
----
-
 ## 📫 Contact Me
 
 - 💼 LinkedIn: http://linkedin.com/in/waleed-hakeem-37930b11a  
