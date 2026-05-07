@@ -1,16 +1,14 @@
 # Hi, I'm Wali 👋
 
 💻 Java Backend Developer | Spring Boot | Microservices  
-☁️ AWS Cloud Enthusiast | REST API Specialist  
 🎯 Passionate about building scalable backend systems  
 
 ---
 
 ## 🚀 About Me
 - Java Backend Developer with strong experience in Spring Boot ecosystem  
-- Built full-stack applications using React + Spring Boot  
+- Built full-stack applications using Angular + Spring Boot  
 - Skilled in JWT Authentication & Role-Based Access Control  
-- Experience deploying applications on AWS EC2  
 - Focused on clean code, system design, and backend performance  
 
 ---
@@ -21,28 +19,13 @@
 Java | Spring Boot | Spring Security | Hibernate | REST APIs | Microservices
 
 ### 🗄️ Database
-MySQL | JPA | Query Optimization | Database Design
+Oracle | MySQL | MS Sql | PostgreSQL | JPA | Query Optimization | Database Design
 
 ### 🌐 Frontend
-React | JavaScript | HTML | CSS
+Angular | JavaScript | HTML | CSS | Flutter 
 
 ### ☁️ Cloud & DevOps
-AWS EC2 | Docker | Git | CI/CD Basics  
-
----
-
-## 🚀 Featured Projects
-
-### 🚗 Car Service Station Management System
-- Full-stack application using Spring Boot + React  
-- JWT-based authentication & role-based access  
-- MySQL database with optimized schema design  
-- Deployed on AWS EC2  
-
-### 📅 Event Management System
-- Java + MySQL based system  
-- Event creation, scheduling, and management  
-- Clean CRUD backend architecture  
+Docker | Git | CI/CD Basics  
 
 ---
 
