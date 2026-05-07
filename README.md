@@ -1,8 +1,8 @@
-| [![Diram Bora](https://img.shields.io/badge/DIRAM-BORA-<COLOR>.svg)](https://shields.io/) | ![Profile Views](https://komarev.com/ghpvc/?username=dirambora&color=green) | ![Followers](https://img.shields.io/github/followers/dirambora) | ![Stars](https://img.shields.io/github/stars/dirambora?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) |
+| [![Diram Bora](https://img.shields.io/badge/DIRAM-BORA-<COLOR>.svg)](https://shields.io/) | ![Profile Views](https://komarev.com/ghpvc/?username=waleed47&color=green) | ![Followers](https://img.shields.io/github/followers/waleed47) | ![Stars](https://img.shields.io/github/stars/waleed47?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) |
 --| --| --| --|
 
 
-<p align="left">  <img src="https://komarev.com/ghpvc/?username=waleed47&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=waleed47&label=Profile%20views&color=0e75b6&style=flat" alt="waleed47" /> </p>
 
 ---
 
@@ -14,15 +14,15 @@
 ---
 
 <br><br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=dirambora&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=waleed47&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=dirambora&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dirambora&langs_count=5&theme=tokyonight)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=waleed47&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=waleed47&langs_count=5&theme=tokyonight)]()
 -->
 
-![](https://github-readme-stats.vercel.app/api?username=dirambora&theme=light&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=dirambora&theme=light&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dirambora&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=waleed47&theme=light&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=waleed47&theme=light&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=waleed47&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
