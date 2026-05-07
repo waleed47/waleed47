@@ -2,7 +2,7 @@
 --| --| --| --|
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mule-me&label=Profile%20views&color=0e75b6&style=flat" alt="mule-me" /> </p>
+<p align="left">  <img src="https://komarev.com/ghpvc/?username=waleed47&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="profile views" /> </p>
 
 ---
 
